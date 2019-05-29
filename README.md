@@ -1,2 +1,0 @@
-# cSharp
-C sharp projects
